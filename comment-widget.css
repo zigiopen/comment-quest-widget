@@ -1,16 +1,1 @@
-.cq-container {
-  font-family: Arial, sans-serif;
-  max-width: 400px;
-  margin: 20px auto;
-  background: white;
-  border-radius: 12px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  padding: 15px;
-}
 
-.cq-comment-box {
-  /* Copy styles from original styles.css */
-}
-
-/* Copy all other styles from original styles.css */
-/* Prefix all classes with cq- to avoid conflicts */
